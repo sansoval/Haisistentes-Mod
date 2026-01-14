@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "haisistente:blocks/peluchehaise",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "haisistente:peluchehaise"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "haisistente:block/peluchehaise"
+    },
+    "facing=east": {
+      "model": "haisistente:block/peluchehaise",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "haisistente:block/peluchehaise",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "haisistente:block/peluchehaise",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "haisistente:aldea_path",
+  "fallback": "haisistente:aldea_end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "haisistente:haisillage_camino1",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "haisistente:haisillage_camino2",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "haisistente:haisillage_camino3",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "haisistente:haisillage_camino4",
+        "projection": "terrain_matching",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

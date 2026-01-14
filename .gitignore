@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Run directory (Minecraft dev runtime)
+run/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Forge
+crash-reports/

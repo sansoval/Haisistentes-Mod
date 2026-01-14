@@ -1,0 +1,9 @@
+{
+  "parent": "haisistente:custom/peluche_haisen",
+  "textures": {
+    "all": "haisistente:block/texture_haisen",
+    "particle": "haisistente:block/texture_haisen",
+    "0": "haisistente:block/texture_haisen"
+  },
+  "render_type": "cutout_mipped"
+}
